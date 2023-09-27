@@ -1,3 +1,5 @@
+//This is a scamazon program
+
 #include <iostream>
 #include <iomanip>
 #include <string>
